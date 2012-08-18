@@ -1,0 +1,34 @@
+@import url(bootstrap.min.css);
+
+/* line 1, ../sass/subpages/_item_list.scss */
+.item-list {
+	width: 100%;
+}
+
+/* line 5, ../sass/subpages/_item_list.scss */
+.remove-material {
+	float: left;
+	margin-right: 3px;
+}
+
+/* line 5, ../sass/app.scss */
+.page-content {
+	padding-top: 50px;
+}
+
+/* line 10, ../sass/app.scss */
+.input-editor {
+	width: 80%;
+}
+
+/* line 15, ../sass/app.scss */
+.form-actions .remove-material {
+	float: right;
+}
+
+/* line 20, ../sass/app.scss */
+input[type="text"] {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
